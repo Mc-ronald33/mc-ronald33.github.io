@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Thu, 08 Dec 2016 22:05:09 +0100</pubDate>
+    <lastBuildDate>Thu, 08 Dec 2016 22:05:09 +0100</lastBuildDate>
+
+    
+      <item>
+        <title>La petite histoire.</title>
+        <link>http://localhost:4000/pre-sentation</link>
+        <pubDate>Wed, 07 Dec 2016 00:00:00 +0100</pubDate>
+        <author></author>
+        <description>&lt;p&gt;Bonjour tout le monde,&lt;/p&gt;
+
+&lt;p&gt;En cette moitié d’année 2016, j’ai décidé de prendre mon avenir en main. Mon envie de changement au niveau professionnel ce faisait de plus en plus ressentir, j’ai donc décidé de me lancer dans l’aventure du developpement web, un tout nouvel univers pour moi, mais qui m’a toujours attirré. Après plusieurs recherches de formations, je suis tombée sur une école, la Wild Code School, qui propose un cursus de 5mois pour permettre à la fin de celui-ci de devenir le developpeur web accompli que je rêve d’être.&lt;br /&gt;
+  Afin de valider ma canditudre, la Wild Code School m’a mise à l’épreuve, c’est donc grâce à elle que j’ai développé mon tout premier blog. 
+C’est comme ça que j’ai pu découvrir &lt;em&gt;Jekyll&lt;/em&gt;, lui qui m’a donné du fil à retordre, mais que j’ai reussie à dompter.                                                                                &lt;br /&gt;
+  &lt;strong&gt;Et c’est grâce, à mon super Blog, que je vais être accepté à la Wild Code School!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Envie de vous faire partager une de mes chansons préféré, comme quoi &lt;em&gt;Jekyll et moi étions déjà liés ;)&lt;/em&gt;:
+&lt;a href=&quot;https://www.youtube.com/watch?v=DMQc21Yi82Q&quot;&gt;https://www.youtube.com/watch?v=DMQc21Yi82Q&lt;/a&gt;&lt;/p&gt;
+
+</description>
+      </item>
+    
+      <item>
+        <title>Mon voyage en Croatie.</title>
+        <link>http://localhost:4000/croatie</link>
+        <pubDate>Wed, 07 Dec 2016 00:00:00 +0100</pubDate>
+        <author></author>
+        <description>&lt;p&gt;Hello tout le monde!&lt;/p&gt;
+
+&lt;p&gt;Aujourd’hui je vais vous parler de mon voayge en &lt;strong&gt;Croatie&lt;/strong&gt;.
+Je suis partie en Juillet 2016 avec mon fils Andrea, qui était aussi excité que moi de partager cette aventure, le premier voyage entre mère etfils!                                          &lt;br /&gt;
+  Nous sommmes partis de Toulouse un dimanche pour atterir le jour même à Pula au nord du pays. Nous avions envie de plage, mer, paysage de rêve pour bien commencer l’été donc quoi de mieux que de commencer la semaine par l’île de Krk.                                      &lt;br /&gt;
+  Nous l’avons parcouru en long et en large pendant 4 jours pour ensuite retourner sur Pula. Entre temps nous avons fait un détours dans les terres croates jusqu’au lacs de Plitvices!!&lt;/p&gt;
+
+&lt;p&gt;Je vous partage quelque photo afin que vous puissiez vivre ce moment avec moi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;public/images/croatie1.jpg&quot; alt=&quot;Photo croatie&quot; title=&quot;photo croatie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;public/images/croatie2.jpg&quot; alt=&quot;Photo croatie&quot; title=&quot;photo croatie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;public/images/croatie3.jpg&quot; alt=&quot;Photo croatie&quot; title=&quot;photo croatie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;public/images/croatie4.jpg&quot; alt=&quot;Photo croatie&quot; title=&quot;photo croatie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;public/images/croatie5.jpg&quot; alt=&quot;Photo croatie&quot; title=&quot;photo croatie&quot; /&gt;&lt;/p&gt;
+
+</description>
+      </item>
+    
+
+  </channel>
+</rss>
